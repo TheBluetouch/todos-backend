@@ -8,8 +8,8 @@ POST http://localhost:8080/api/todo
 Content-Type: application/json
 
 {
-  "title": "Lorem ipsum3",
-  "description": "Lorem ipsum3 dolor sit amet, consectetur adipiscing elit. Nulla tincidunt congue neque, sed sodales velit. Donec id leo enim. Nunc placerat velit vitae pharetra tempus. Quisque ante lorem, vestibulum at nunc eget, dignissim tincidunt nibh.}",
+  "title": "Lorem ipsum4",
+  "description": "Lorem ipsum4 dolor sit amet, consectetur adipiscing elit. Nulla tincidunt congue neque, sed sodales velit. Donec id leo enim. Nunc placerat velit vitae pharetra tempus. Quisque ante lorem, vestibulum at nunc eget, dignissim tincidunt nibh.}",
   "userName": "Adam Mickiewicz"
 }
 ###
